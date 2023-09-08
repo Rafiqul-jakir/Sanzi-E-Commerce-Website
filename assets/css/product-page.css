@@ -1,0 +1,23 @@
+.card-text {
+  font-size: 18px;
+}
+.card-title {
+  font-size: 20px;
+  text-align: left;
+}
+.add-to-cart-button {
+  font-weight: 400;
+  background-color: #7aae32;
+  border: none;
+  transition: 0.3s;
+}
+.add-to-cart-button:hover {
+  background-color: #5a851e;
+}
+.menu-active {
+  color: #f41976 !important;
+}
+.header__nav-primary > li:first-child a {
+  color: #666b6d !important;
+}
+

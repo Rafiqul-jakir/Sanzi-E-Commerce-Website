@@ -1,0 +1,22 @@
+/* ----------Code for Index.php---------------- */
+body {
+  background-color: #fff !important;
+}
+.Signup_button {
+  color: #fff !important;
+  background: linear-gradient(to right, #9100ff, #ff00ae);
+  border: none;
+  padding: 6px 15px;
+  text-align: center;
+  border-radius: 16px;
+}
+.hero__wrapper {
+  border-radius: 3rem !important;
+}
+.hero {
+  width: 100vw;
+  margin-top: 5rem;
+}
+
+/* ------------------------------------------------- */
+
